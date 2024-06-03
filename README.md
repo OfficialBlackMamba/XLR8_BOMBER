@@ -27,7 +27,7 @@ _Don't use this to take revenge_<br />
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/mikiadarsh25/XLR8_BOMBER
+git clone https://github.com/OfficialBlackMamba/XLR8_BOMBER
 ```
 Go to the Xlr8 Directory
 ```bash
@@ -49,6 +49,6 @@ bash xlr8.sh
 * `This bomber only works in India !!`
 
 ## Licence
-Apache 2.0 © Adarsh Prakash
+Apache 2.0 © Black Mamba
 
 
